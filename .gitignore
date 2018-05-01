@@ -1,2 +1,2 @@
 # builds
-docs/
+.vuepress/dist
