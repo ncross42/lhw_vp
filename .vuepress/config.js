@@ -1,6 +1,5 @@
 module.exports = {
-  base: '/',
-  // base: '/vuepress/',
+  base: '/lhw_vp/',
   title: '이희원 서초구의원 예비후보자',
   description: '이희원 서초구의원 가선거구(반포1,3,4,잠원동) 예비후보자',
   dest: 'docs',
